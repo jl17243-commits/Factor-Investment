@@ -1,1 +1,2 @@
 # Factor-Investment
+对比分析传统靠资产种类的MVO和靠因子的MVO的策略表现
